@@ -1,0 +1,4 @@
+﻿  Lab6.cpp
+D:\Desktop\лабы\Lab6\Lab6\Lab6.cpp(55,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Desktop\лабы\Lab6\Lab6\Lab6.cpp(45): warning C4715:  make_get_request: значение возвращается не при всех путях выполнения
+  Lab6.vcxproj -> D:\Desktop\лабы\Lab6\Debug\Lab6.exe
